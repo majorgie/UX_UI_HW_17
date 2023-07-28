@@ -1,0 +1,30 @@
+body {
+    background-color: #b6584c;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 5%;
+}
+
+#navigation {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul.footer li {
+    display: inline;
+    width: 50%;
+    margin-left: auto;
+}
+
